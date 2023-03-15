@@ -1,0 +1,30 @@
+.intro {
+    color: white;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    text-align:left;
+    margin-left: 200px;
+  }
+  
+  .educationalBackground {
+    padding: 30px;
+    border: 2px solid rgb(184, 20, 48);
+    box-shadow: 2px 2px 5px 5px;
+  }
+  
+  
+  .wrapEducationBackground {
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    padding-bottom: 5vh;
+    margin: 100px 200px;
+    
+  }
+  /*
+  .wrapEducationBackground h2{
+    text-align: center;
+    color:  pink;
+    box-shadow: 2px 2px 5px 5px;
+  }
+   */

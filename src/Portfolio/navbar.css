@@ -1,0 +1,39 @@
+.navbar {
+    display: flex;
+    height: 10vh;
+    background-color:#262626;
+    border: 1px solid #262626;
+    width:100%; 
+   }
+   h1 span{
+    color:rgb(177, 78, 96);
+
+    
+}
+h1{
+   padding: 2px;
+   margin: 0;
+}
+
+  .name {
+    display: flex;
+    width: 50%;
+    padding-left: 5%;
+    margin: 0;
+  }
+  .aboutNavbar {
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    list-style: none;
+    height: 10vh;
+    margin:0;
+    
+   
+  }
+  ul li{
+    color: white;
+    padding: 15px;
+  }
+  
+  

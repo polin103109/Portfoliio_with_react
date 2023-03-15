@@ -1,0 +1,28 @@
+
+.detail h1{
+
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+}
+.projectdetail{
+    text-align: center;
+    margin-top: 100px;
+}
+.projectmap a{
+    text-decoration: none;
+    color:white;
+}
+.projectmap a:hover{
+    color:#ff004f;
+}
+.projectmap{
+    box-shadow: 5px 5px 5px 5px;
+    display: flex;
+    align-items: center;
+    border: 1px solid #ff004f;
+    margin: 100px 200px;
+}
+.detail{
+    margin: 20px;
+}
